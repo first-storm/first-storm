@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub
 
-<!--
-**first-storm/first-storm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **LMFuture**!   
 
-Here are some ideas to get you started:
+🎓 A soon-to-be **Computer Science student at UNSW** and a passionate graduate from high school in China.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Software Package Maintainer**  
+I maintain and update software packages regularly. Updates will be released at least once a month. If there are any gaps, please feel free to reach out.  
+
+🎮 **Gaming & Rhythm**   
+[I](https://osu.ppy.sh/users/29542373) am a 5 digit osu! player!   
+
+💽 **GNU/Linux User**   
+I primarily work with the **openSUSE** and **GNOME**.   
+
+
+### 🔗 Get in Touch  
+📧 Email: 2835365572zty@gmail.com  
