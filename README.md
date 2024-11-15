@@ -15,4 +15,4 @@ I primarily work with the **openSUSE** and **GNOME**.
 
 
 ### 🔗 Get in Touch  
-📧 Email: 2835365572zty@gmail.com  
+📧 Email: 2835365572zty@gmail.com or me@cocoabrew.cc
