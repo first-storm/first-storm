@@ -2,7 +2,7 @@
 
 Hi, I’m **LMFuture**!   
 
-🎓 A soon-to-be **Computer Science student at UNSW** and a passionate graduate from high school in China.  
+🎓 A **Computer Science student at UNSW** and a passionate graduate from high school in China.  
 
 💻 **Software Package Maintainer**  
 I maintain and update software packages regularly. Updates will be released at least once a month. If there are any gaps, please feel free to reach out.  
